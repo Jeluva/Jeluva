@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Currently a student of "Universidad Tecnologica Nacional"<br>🌱Currently Learning advanced topics in Algorithms, OS and Data Structures<br>🔨 Expanding the capabilities of my proyects to enhance study sessions
+📚 Currently a student of "Universidad Tecnologica Nacional"<br>🔨 Expanding the capabilities of my proyects to enhance study sessions
 
 
 ## 🌐 Socials:
